@@ -51,10 +51,10 @@ The model’s decision-making logic was audited using **Feature Importance**, re
 * **Data:** ChEMBL Web Resource Client.
 
 ## 📂 Repository Structure
-* `data/`: Raw and processed chemical descriptors.
-* `models/`: Serialized `.pkl` files (XGBoost model, Scaler, and Label Encoder).
-* `results/`: Visualizations of model performance and biological features.
-* `notebooks/`: Fully documented Jupyter notebooks explaining the logic.
+* `Data/`: Raw and processed chemical descriptors.
+* `Model/`: Serialized `.pkl` files (XGBoost model, Scaler, and Label Encoder).
+* `Results/`: Visualizations of model performance and biological features.
+* `AI-Dopamine.ipynb`: Fully documented colab notebook explaining the logic.
 
 ---
 
