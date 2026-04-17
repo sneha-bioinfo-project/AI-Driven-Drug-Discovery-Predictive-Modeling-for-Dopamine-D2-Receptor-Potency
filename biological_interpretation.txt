@@ -1,0 +1,34 @@
+
+🧬 BIOLOGICAL INTERPRETATION OF MODEL
+
+The machine learning model learned that these molecular properties are most important
+for predicting drug potency against Dopamine D2 receptor:
+
+1. Topological Polar Surface Area (TPSA):
+   - Predicts drug's ability to cross membranes
+   - Lower TPSA = better cell penetration
+   - Sweet spot: 20-130 Ų for drugs
+
+2. Molecular Weight (MW):
+   - Heavy molecules = poor absorption
+   - Sweet spot: 160-480 g/mol for drugs
+   - Below 400 g/mol preferred
+
+3. Lipophilicity (LogP):
+   - Controls membrane crossing
+   - Sweet spot: 2-5 for optimal drugs
+   - Too high = solubility issues
+   - Too low = poor cell penetration
+
+This aligns with Lipinski's Rule of Five - pharmaceutical standards for orally active drugs!
+
+🎯 MODEL CONCLUSION:
+The model predicts that drugs with:
+✓ Low TPSA (<130)
+✓ Medium MW (160-400)
+✓ Balanced lipophilicity (LogP 2-5)
+✓ Fewer rotatable bonds
+
+...will be MORE POTENT against Dopamine D2 receptor.
+
+This knowledge can help in designing new drug candidates!
