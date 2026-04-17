@@ -1,0 +1,9 @@
+MW
+LogP
+HBA
+HBD
+RotBonds
+AroRings
+TPSA
+HeavyAtoms
+Heteroatoms
