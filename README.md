@@ -58,5 +58,3 @@ The model’s decision-making logic was audited using **Feature Importance**, re
 
 ---
 
-### 📝 Final "Pro" Note for Recruiters:
-> "By achieving **100% Precision** on the test set, this pipeline serves as a reliable 'digital filter,' allowing researchers to prioritize only the most promising candidates for *in vitro* assays, drastically reducing the time-to-discovery for neurological therapeutic agents."
